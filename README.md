@@ -1,120 +1,18 @@
-<div align="center">
+# 💫 About Me:
+My name is Rojan Adhikari. <br>I am a second-year B.E. Computer Science and Engineering student at KPR Institute of Engineering and Technology (KPRIET), Coimbatore, Tamil Nadu, originating from Nepal.<br>I have a strong interest in both frontend and backend software engineering, with a focus on building responsive, performant, and user-friendly web interfaces. <br>I am continuously expanding my skillset by building practical full-stack projects, mastering core programming concepts, and exploring new technologies.<br><br>  1. Technical Focus: Full-stack web development specializing in responsive, user-focused web apps.<br>  2. Key Credentials: Certified across AWS (Cloud), MongoDB (Databases), and Fortinet (Security).<br>  3. Hands-On Portfolio: Built multiple practical full-stack projects to solve real-world problems.<br>  4. Open To: Tech internships, software development roles, and collaborative projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Rojan%20Adhikari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Frontend%20%26%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CS+Student+%40+KPRIET;Frontend+%2B+Backend+Developer;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rojan Adhikari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rozan.adhikari07@gmail.com) 
 
-<img src="https://img.shields.io/badge/B.E.%20in%20Computer%20Science-2nd%20Year-4c1d95?style=flat-square&logo=academicons&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-581c87?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<a href="https://www.linkedin.com/in/rojan-adhikari-6a65973b4/"><img src="https://img.shields.io/badge/LinkedIn-581c87?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rojan-adhikari"><img src="https://img.shields.io/badge/GitHub-6b21a8?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=rojan-adhikari&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/rojan-adhikari?label=Followers&logo=github&style=flat-square&color=6d28d9" />
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rojan-adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rojan-adhikari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rojan-adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rojan-adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👋 About Me
-
-- 🎓 2nd-year B.E. Computer Science and Engineering student from Nepal, studying at **KPRIET, Coimbatore, Tamil Nadu**
-- 💻 Strong interest in front-end and back-end web development
-- 🎨 Enjoy building responsive, user-friendly web interfaces
-- 🌱 Continuously learning and improving my skills through hands-on projects
-- 🤝 Open to **internships, collaborations, and opportunities to grow in tech**
-
----
-
-## 🏆 Milestones
-
-- 🎓 **Academic Progress** — Successfully progressing through B.E. Computer Science and Engineering curriculum at KPRIET
-- 📜 **Industry Certifications** — Completed certified learning paths across Cloud (AWS), Databases (MongoDB), and Security (Fortinet)
-- 💻 **Hands-On Portfolio** — Developed multiple full-stack and frontend web applications to solve practical domain problems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,js,php,python,html,css&perline=6" />
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Skill%20Builder-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<details open>
-<summary><b>📂 REMS_PROJECT</b></summary>
-<br>
-
-<!-- TODO: Replace this paragraph with a real description — what does it do, what problem does it solve, what's the stack? -->
-A project built to [describe what REMS_PROJECT does — e.g. resource/records management system]. Built using [list actual technologies used].
-
-**Repository:** [github.com/rojan-adhikari/REMS_PROJECT](https://github.com/rojan-adhikari/REMS_PROJECT)
-
-</details>
-
----
-
-## 🎯 Currently
-
-```yaml
-learning:
-  - <topics you're studying this semester>
-building:
-  - REMS_PROJECT
-open_to:
-  - Internships
-  - Collaborations
-  - Frontend & Backend opportunities
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rojan-adhikari&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c084fc" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rojan-adhikari&theme=synthwave&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojan-adhikari&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c084fc" width="48%" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rojan-adhikari-6a65973b4/"><img src="https://img.shields.io/badge/LinkedIn-581c87?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rojan-adhikari"><img src="https://img.shields.io/badge/GitHub-6b21a8?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-*Learning something new every day, one project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
