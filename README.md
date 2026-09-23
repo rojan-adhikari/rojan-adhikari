@@ -2,88 +2,157 @@
 
 Rojan Adhikari
 
-Computer Science Engineering Student · Full-Stack Developer · Cloud & AI Enthusiast
+Computer Science & Engineering Student · Full-Stack Developer · Cloud & AI Enthusiast
 
 <p>
-  <a href="https://github.com/rojan-adhikari">
-    <img src="https://komarev.com/ghpvc/?username=rojan-adhikari&label=Profile%20Views&style=flat-square" alt="Profile views" />
-  </a>
+  Building thoughtful software with a focus on <b>clarity, reliability, performance, and real-world usefulness</b>.
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/rojan-adhikari-6a65973b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rojan%20Adhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rozan.adhikari07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/rojan-adhikari">
+    <img src="https://img.shields.io/badge/GitHub-rojan--adhikari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/RozanAdhikari77">
+    <img src="https://img.shields.io/badge/X-@RozanAdhikari77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 </div>
 
-About Me
+Profile
 
-I'm Rojan Adhikari, a second-year B.E. Computer Science and Engineering student at KPR Institute of Engineering and Technology (KPRIET), Coimbatore, Tamil Nadu, originally from Nepal.
+I am Rojan Adhikari, a second-year B.E. Computer Science and Engineering student at KPR Institute of Engineering and Technology (KPRIET), Coimbatore, Tamil Nadu, originally from Nepal.
 
-I am focused on becoming a strong full-stack software engineer, with particular interest in building responsive, scalable, performant, and user-friendly applications. I continuously strengthen my engineering fundamentals through practical projects, backend systems, cloud technologies, APIs, databases, and modern web development.
+My work is centered around one idea: software should not only function — it should be dependable, intuitive, maintainable, and meaningful to the people using it.
 
-Technical Focus: Full-stack web development, backend engineering, APIs, cloud deployment, and responsive UI engineering
+I am developing my engineering foundation across frontend systems, backend architecture, APIs, databases, cloud deployment, and AI-enabled applications. I prefer learning by building: taking ideas from problem statement to working product, improving them through iteration, and understanding the engineering decisions behind them.
 
-Credentials: Certified across AWS Cloud, MongoDB Databases, and Fortinet Security
+What I Focus On
 
-Project Experience: Building practical software solutions for healthcare, productivity, AI-assisted systems, and real-world problem statements
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently Exploring: Scalable backend architecture, AI integration, cloud infrastructure, system design, and production deployment
+Software Engineering
 
-Open To: Software engineering internships, development opportunities, collaborative projects, and technical communities
+Full-stack application development
 
-Tech Stack
+Backend systems and REST APIs
 
-Programming Languages
+Authentication and workflow design
+
+Database-driven applications
+
+Maintainable project architecture
+
+</td>
+<td width="50%" valign="top">
+
+Product Engineering
+
+Responsive and accessible interfaces
+
+Performance-conscious web applications
+
+User-centered workflow design
+
+Real-world problem solving
+
+Production-oriented deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+Cloud & Infrastructure
+
+Cloud deployment fundamentals
+
+Serverless and edge platforms
+
+Environment and deployment workflows
+
+Reliability and scalability concepts
+
+Git-based development workflows
+
+</td>
+<td width="50%" valign="top">
+
+AI & Applied Systems
+
+AI-assisted product features
+
+Healthcare-oriented software systems
+
+Structured data workflows
+
+Explainable system thinking
+
+Practical automation
+
+</td>
+</tr>
+</table>
+
+Technical Stack
+
+Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css" alt="Languages" />
 </p>
 
-Frontend Development
+Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" alt="Frontend" />
 </p>
 
 Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" alt="Backend" />
 </p>
 
 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </p>
 
-Cloud, Deployment & Developer Tools
+Cloud, Deployment & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,git,github,vscode,bash" alt="Cloud and tools" />
 </p>
 
-Data & Analytics
+Data & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-Featured Projects
+Selected Work
 
 AyurDoc
 
 Multilingual Healthcare Case-Taking & Clinical Workflow Platform
 
-A healthcare-focused full-stack platform designed to improve digital patient case-taking, doctor workflows, multilingual interaction, structured clinical intake, voice-assisted navigation, and interoperable health-data readiness.
+A healthcare-oriented full-stack platform built around structured patient intake, doctor workflows, multilingual interaction, voice-assisted navigation, AI-supported assistance, and interoperable health-data readiness.
 
-Healthcare · Full Stack · AI-Assisted Workflow · Multilingual · Cloud
+Focus: Healthcare · Full Stack · AI-Assisted Workflows · Multilingual Systems · Cloud Deployment
 
 View Repository
 
@@ -91,79 +160,75 @@ ICARE
 
 AI-Assisted Diabetic Retinopathy Screening System
 
-A retinal screening concept focused on image-quality assessment, retinal analysis, explainable AI, structured patient workflows, and deployment-oriented screening for real-world healthcare environments.
+A retinal screening concept focused on image-quality assessment, retinal image analysis, structured clinical workflows, explainability, and deployment-oriented healthcare screening.
 
-Computer Vision · Healthcare AI · Image Analysis · Explainable AI
+Focus: Computer Vision · Healthcare AI · Image Analysis · Explainable Systems
 
 FitFlow
 
 Fitness & Personal Wellness Application
 
-A modern fitness application concept designed around structured tracking, usability, responsive interfaces, and clean mobile-first user experience.
+A modern fitness application focused on clean interaction design, structured tracking, responsive interfaces, and practical user experience.
 
-Frontend · UI/UX · Responsive Design · Web App
+Focus: Frontend Engineering · UI/UX · Responsive Design · Product Development
 
 Certifications
 
-Area
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database%20Fundamentals-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</p>
 
-Certification Focus
+Engineering Principles
 
-Cloud Computing
+Build for users, not demos.
+Prefer clarity over unnecessary complexity.
+Understand the system, not just the framework.
+Design for maintainability before scale becomes a problem.
+Treat deployment, reliability, and security as part of development.
+Keep learning through real implementation.
 
-AWS
+Current Direction
 
-Databases
+I am currently deepening my understanding of:
 
-MongoDB
+backend architecture and API design
 
-Cybersecurity
+authentication and database systems
 
-Fortinet
+cloud infrastructure and deployment
 
-GitHub Analytics
+system design and scalable application architecture
+
+AI integration in practical software products
+
+production-quality frontend engineering
+
+My goal is to grow into a software engineer capable of taking a product from idea → architecture → implementation → deployment → iteration.
+
+Beyond Code
+
+I am especially interested in projects where software has a clear purpose — healthcare, productivity, intelligent systems, and products that simplify complex workflows.
+
+I value consistency, curiosity, technical depth, and the ability to communicate engineering decisions clearly. I am open to internships, technical collaborations, project partnerships, and opportunities where I can contribute while continuing to grow.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojan-adhikari&show_icons=true&hide_border=true&rank_icon=github" alt="Rojan's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojan-adhikari&hide_border=true" alt="GitHub streak" />
+Let's Connect
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojan-adhikari&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
-Engineering Interests
-
-Full-Stack Development  →  Scalable applications and production-ready systems
-Backend Engineering     →  APIs, authentication, databases, business logic
-Cloud Computing         →  Deployment, infrastructure, reliability
-Artificial Intelligence →  Practical AI integration into real applications
-Software Engineering    →  Clean architecture, maintainability, performance
-
-What I'm Working Toward
-
-I am currently focused on strengthening my software engineering foundation through hands-on development, deeper backend knowledge, production deployment, cloud technologies, databases, system design, and real-world project execution.
-
-My long-term goal is to build reliable software products that combine strong engineering, practical usability, and meaningful real-world impact.
-
-Connect With Me
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rojan-adhikari-6a65973b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rojan%20Adhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rojan-adhikari">
-    <img src="https://img.shields.io/badge/GitHub-rojan--adhikari-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/RozanAdhikari77">
-    <img src="https://img.shields.io/badge/X-@RozanAdhikari77-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<div align="center">
-
-Open to learning, building, collaborating, and creating software that solves real problems.
+Focused on learning deeply, building carefully, and creating software with real value.
 
 </div>
