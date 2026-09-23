@@ -154,7 +154,8 @@ A healthcare-oriented full-stack platform built around structured patient intake
 
 Focus: Healthcare · Full Stack · AI-Assisted Workflows · Multilingual Systems · Cloud Deployment
 
-View Repository
+
+
 
 ICARE
 
@@ -164,6 +165,9 @@ A retinal screening concept focused on image-quality assessment, retinal image a
 
 Focus: Computer Vision · Healthcare AI · Image Analysis · Explainable Systems
 
+
+
+
 FitFlow
 
 Fitness & Personal Wellness Application
@@ -171,6 +175,8 @@ Fitness & Personal Wellness Application
 A modern fitness application focused on clean interaction design, structured tracking, responsive interfaces, and practical user experience.
 
 Focus: Frontend Engineering · UI/UX · Responsive Design · Product Development
+
+
 
 Certifications
 
