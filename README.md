@@ -2,7 +2,7 @@
 
 Rojan Adhikari
 
-Computer Science & Engineering Student · Full-Stack Developer · Cloud & AI Enthusiast
+Computer Science & Engineering Student with a growing interest in Software Development, and AI.
 
 <p>
   Building thoughtful software with a focus on <b>clarity, reliability, performance, and real-world usefulness</b>.
@@ -18,7 +18,7 @@ Computer Science & Engineering Student · Full-Stack Developer · Cloud & AI Ent
   <a href="https://x.com/RozanAdhikari77">
     <img src="https://img.shields.io/badge/X-@RozanAdhikari77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:rozan.adhikari07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -178,22 +178,8 @@ Focus: Frontend Engineering · UI/UX · Responsive Design · Product Development
 
 
 
-Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Database%20Fundamentals-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</p>
 
-Engineering Principles
-
-Build for users, not demos.
-Prefer clarity over unnecessary complexity.
-Understand the system, not just the framework.
-Design for maintainability before scale becomes a problem.
-Treat deployment, reliability, and security as part of development.
-Keep learning through real implementation.
 
 Current Direction
 
@@ -230,7 +216,7 @@ Let's Connect
   <a href="https://github.com/rojan-adhikari">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:rozan.adhikari07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
